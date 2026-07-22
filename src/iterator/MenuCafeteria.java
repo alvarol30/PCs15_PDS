@@ -1,4 +1,4 @@
-package model;
+package iterator;
 
 public class MenuCafeteria {
 }
